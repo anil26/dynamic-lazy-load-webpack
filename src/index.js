@@ -30,8 +30,8 @@ myButton.addEventListener("click", (event) => {
   event.target.innerText = value + 1
 }) 
 //document.body.appendChild(footer)
-const imageContainer = document.createElement("img")
-imageContainer.src = Image
-imageContainer.style.width = "100%";
-document.body.appendChild(imageContainer)
+// const imageContainer = document.createElement("img")
+// imageContainer.src = Image
+// imageContainer.style.width = "50%";
+// document.body.appendChild(imageContainer)
 document.body.appendChild(myButton)
