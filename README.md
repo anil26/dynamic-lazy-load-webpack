@@ -29,3 +29,6 @@ These steps will assume that you have `cd`'d in your preferred editor to this re
 
 ## Resources
 * [Slides](https://docs.google.com/presentation/d/1RuTDSvfaEFBFQ-3OiyxtuPTaGhv-xv7OG4jt5mpIdUw/edit?usp=sharing)
+
+
+npm run dev -- --env.presets compress
